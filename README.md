@@ -4,4 +4,4 @@ In this React drum pad machine project, you can play music by clicking/tapping o
 [Live View](https://ckhgueye.github.io/ReactDrumApp/)
 
 
-<img src="https://user-images.githubusercontent.com/83069563/216313912-645ea238-00ea-431d-97d3-8cd07faa9952.png" width="250">
+<img src="https://user-images.githubusercontent.com/83069563/216317999-f6471f00-2a5a-41d5-a1c3-20b0cb744e91.png">
