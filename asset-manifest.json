@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/ReactDrumApp/static/css/main.d7a61b3f.chunk.css",
-    "main.js": "/ReactDrumApp/static/js/main.de75adfd.chunk.js",
-    "main.js.map": "/ReactDrumApp/static/js/main.de75adfd.chunk.js.map",
-    "runtime-main.js": "/ReactDrumApp/static/js/runtime-main.44c35068.js",
-    "runtime-main.js.map": "/ReactDrumApp/static/js/runtime-main.44c35068.js.map",
-    "static/js/2.4c102db0.chunk.js": "/ReactDrumApp/static/js/2.4c102db0.chunk.js",
-    "static/js/2.4c102db0.chunk.js.map": "/ReactDrumApp/static/js/2.4c102db0.chunk.js.map",
+    "main.css": "/ReactDrumApp/static/css/main.a8591aae.css",
+    "main.js": "/ReactDrumApp/static/js/main.2fc13dc3.js",
     "index.html": "/ReactDrumApp/index.html",
-    "static/css/main.d7a61b3f.chunk.css.map": "/ReactDrumApp/static/css/main.d7a61b3f.chunk.css.map",
-    "static/js/2.4c102db0.chunk.js.LICENSE.txt": "/ReactDrumApp/static/js/2.4c102db0.chunk.js.LICENSE.txt"
+    "main.a8591aae.css.map": "/ReactDrumApp/static/css/main.a8591aae.css.map",
+    "main.2fc13dc3.js.map": "/ReactDrumApp/static/js/main.2fc13dc3.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.44c35068.js",
-    "static/js/2.4c102db0.chunk.js",
-    "static/css/main.d7a61b3f.chunk.css",
-    "static/js/main.de75adfd.chunk.js"
+    "static/css/main.a8591aae.css",
+    "static/js/main.2fc13dc3.js"
   ]
 }
